@@ -16,4 +16,7 @@ params:
   scripts:
     googleanalytics: 
     disqus: 
+    mailchimp_url: 
+    mailchimp_audience_id:
+    mailchimp_other_code:
     
